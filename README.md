@@ -13,16 +13,16 @@ WAVs with respective SFZ mapping to use them with LinuxSampler for example.
 
 dsnd2sfz -f dsnd-file-name [options]
 
-   -a dry run write no files
-   -b zone boundary volume difference (12 dB)
-   -d output directory
-   -h help
-   -n note (36)
-   -i in-threshold (60=-60 dB)
-   -o out-threshold (96=-96 dB)
-   -v number of velocity layers (5)
-   -w window length in samples (200)
-
+   -a dry run write no files  
+   -b zone boundary volume difference (12 dB)  
+   -d output directory  
+   -h help  
+   -n note (36)  
+   -i in-threshold (60=-60 dB)  
+   -o out-threshold (96=-96 dB)  
+   -v number of velocity layers (5)  
+   -w window length in samples (200)  
+   
 ---------------------------------------------
 
 # BUILD
